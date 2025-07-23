@@ -34,7 +34,7 @@ const employees = [
     },
     {
       title: "Fix Bugs",
-      description: "Resolve bugs reported in issue tracker.",
+      description: "Resolve critical bugs reported in issue tracker.",
       date: "2025-06-17",
       category: "Development",
       active: false,

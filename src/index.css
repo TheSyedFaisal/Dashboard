@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 body{
-    background-color: #111;
-    color: #fff;
+    background-color: #ffffff;
+    color: black;
 }
 
 #task::-webkit-scrollbar{
